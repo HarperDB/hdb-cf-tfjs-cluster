@@ -1,0 +1,20 @@
+{
+  "name": "hdb-cf-tfjs-cluster-nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cleanData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.20.0",
+    "axios": "^0.27.2",
+    "harperdb-websocket-client": "^1.0.5",
+    "lodash": "^4.17.21",
+    "pm2": "^5.2.0"
+  }
+}
